@@ -1,0 +1,13 @@
+{
+  "title": "설정",
+  "languageCard": {
+    "selectLanguage": "언어 선택",
+    "languageFormat": "언어: {{language}}"
+  },
+  "uploadCard": {
+    "title": "데이터베이스 업로드",
+    "replaceDatabase": "데이터베이스 덮어쓰기",
+    "hint": "JSON 파일 불러오기...",
+    "hintPaste": "...아니면 내용을 아래에 붙여넣기."
+  }
+}

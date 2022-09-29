@@ -1,0 +1,13 @@
+{
+  "title": "Configurações",
+  "languageCard": {
+    "selectLanguage": "Selecione o Idioma",
+    "languageFormat": "Idioma: {{language}}"
+  },
+  "uploadCard": {
+    "title": "Upload de Banco de Dados",
+    "replaceDatabase": "Substituir Banco de Dados",
+    "hint": "Faça upload do seu arquivo JSON aqui...",
+    "hintPaste": "...ou cole seus dados abaixo."
+  }
+}

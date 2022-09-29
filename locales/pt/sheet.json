@@ -1,0 +1,9 @@
+{
+  "dmg": "DANO",
+  "hits": "({{hits}} Acertos)",
+  "lessPercentHP": "< {{percent}}% VIDA",
+  "hitOp": {
+    "normal": "Acertos de Ataques Normais nos oponentes",
+    "charged": "Acertos de Ataques Carregados nos oponentes"
+  }
+}
